@@ -1,0 +1,22 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: auto;
+}
+
+input{
+    font-size: 1rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    background: transparent;
+    border: 1px solid var(--color-primary);
+    text-align: center;
+    color: var(--color-withe);
+}
+
+button{
+    font-size: 1.4rem;
+}
